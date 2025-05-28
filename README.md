@@ -3,12 +3,12 @@
 
 <div align="center" min-width="5px">
 
-### Hello there, I'm Illcoron 🏔️
+### I'm Illcoron 🏔️
 
-😄 My Pronouns: [All]
-🌱 I’m currently learning **JavaScript**, **C**, **Shell-Scripting**,...
-🏡 H.O.M.E. -- House of Makers and Engineers, RWU Weingarten
-🤝 Cooperation, collaboration and support instead of competition
+😄 My Pronouns: [All] <br/>
+🌱 I’m currently learning **JavaScript**, **C**, **Shell-Scripting**,... <br/>
+🏡 H.O.M.E. -- House of Makers and Engineers, RWU Weingarten<br/>
+🤝 Cooperation, collaboration and support instead of competition<br/>
 
 </div>
 
