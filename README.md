@@ -1,15 +1,14 @@
 ## Hello there 👋
 [<img src="./Octocat-Illcoron.png" width="280" align="left" />](./Octocat-Illcoron.png)
 
-> Collaboration, Support,...
-> House of Makers and Engineers, RWU Weingarten
-
 <div align="center" min-width="5px">
 
 ### Hello there, I'm Illcoron 🏔️
 
-😄 My Pronouns: ![All] 
+😄 My Pronouns: [All]
 🌱 I’m currently learning **JavaScript**, **C**, **Shell-Scripting**,...
+🏡 H.O.M.E. -- House of Makers and Engineers, RWU Weingarten
+🤝 Cooperation, collaboration and support instead of competition
 
 </div>
 
