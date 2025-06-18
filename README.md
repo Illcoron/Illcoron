@@ -10,13 +10,15 @@
 🏡 H.O.M.E. -- House of Makers and Engineers, RWU Weingarten<br/>
 🤝 Cooperation, collaboration and support instead of competition<br/>
 
+![Illcorons Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illcoron&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 </div>
 
 <br clear="left"/>
 
 <p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=illcoron&count_private=true&show_icons=true&theme=dracula&hide=stars,issues" alt="Number of commits, PRs and supportet repositories" /> <br/>-->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=illcoron&theme=dracula" alt="Total number of contributions and commit streak" />
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=illcoron&theme=dracula" alt="Total number of contributions and commit streak"  -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illcoron&theme=dracula" alt="Flowchart on this year's commits " />
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gimleux&row=1" alt="My GitHub trophies"/>-->
     
