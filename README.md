@@ -19,6 +19,7 @@
 <p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=illcoron&count_private=true&show_icons=true&theme=dracula&hide=stars,issues" alt="Number of commits, PRs and supportet repositories" /> <br/>-->
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=illcoron&theme=dracula" alt="Total number of contributions and commit streak"  -->
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Illcoron&theme=dracula" alt="GitHub Streak" /></a> <br/> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=illcoron&theme=dracula" alt="Flowchart on this year's commits " />
 <!--<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gimleux&row=1" alt="My GitHub trophies"/>-->
     
