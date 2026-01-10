@@ -7,7 +7,7 @@
 
 😄 My Pronouns: [All] <br/>
 🌱 I’m currently learning **Java**, **C**, **Shell-Scripting**,... <br/>
-🏡 H.O.M.E. -- House of Makers and Engineers, RWU Weingarten<br/>
+🏡 H.O.M.E. -- House of Makers and Engineersn<br/>
 🤝 Cooperation, collaboration and support instead of competition<br/>
 
 ![Illcorons Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illcoron&theme=dark&show_icons=true&hide_border=false&layout=compact)
